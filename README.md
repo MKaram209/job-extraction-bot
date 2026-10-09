@@ -3,6 +3,8 @@
 An Automation Anywhere (A360) bot that goes through the job listings on the UN Careers portal, collects the details of each job, filters them by job network and duty station, and saves everything into an Excel file with a text log of the run.
 
 > **Note:** This README was written with Claude's help. The bot itself, including all of its logic, was built by hand by me.
+>
+> I don't condone relying on AI completely. It degrades your thinking ability and makes you dependent on it. But we are in an AI era, and not integrating it into your daily workflow can be just as detrimental. My approach is to do the thinking and the building myself, and use AI as a tool for things like documentation, where it saves time without replacing what I need to learn.
 
 This is an independent learning project built during my AI & Intelligent Process Automation internship at Orion Valley Academy. It is not affiliated with or endorsed by the United Nations. The bot only reads publicly listed job postings.
 
